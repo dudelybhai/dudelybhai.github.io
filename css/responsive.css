@@ -125,6 +125,7 @@
   #about .div-img-bg .about-img img {
     margin-top: 0%;
     margin-left: calc(0% - 0px);
+    max-width: 100%;
   }
   #about .about-descr .p-heading {
     font-size: 20px;
